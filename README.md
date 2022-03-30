@@ -27,6 +27,7 @@ Ponieważ `wsk_int` w przykładzie (12.1) jest wskaźnikiem na zmienną o nazwie
 Język ANSI C. Programowanie B.W Kernighan D.M. Rithie.
 
 *Schemat (12.0) wskaźniki na zmienne*
+
 ![wskaznikiopng](https://user-images.githubusercontent.com/71324202/160777339-4b090071-38cc-4909-80c8-5009f72b48d6.png)
 
 
