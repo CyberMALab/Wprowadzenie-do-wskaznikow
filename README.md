@@ -184,6 +184,6 @@ Wprowadzenie do wskaźników jest rozdziałem teoretycznym, nie da się zrobić 
 
 
 ***
-[Poprzednia część]() | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Następna część](https://github.com/CyberMALab/Comming-Soon.git)
+[Poprzednia część]() | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Następna część](https://github.com/CyberMALab/Wlasne-funkcje.git)
 ***
 &copy; Cyberspace Modelling and Analysis Laboratory
