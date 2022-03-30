@@ -177,6 +177,11 @@ Wprowadzenie do wskaźników jest rozdziałem teoretycznym, nie da się zrobić 
    1. zmień wartość zmiennej operacją przypisania i wykonaj ponownie punkt iii; 
    1. zmień wartość zmiennej operacją przypisania przy pomocy dereferencji przez wskaźnik i wykonaj ponownie punkt iii.
 
+1. Wykonaj następujące kroki:
+   1. zadeklaruj i zainicjalizuj tablice o rozmiarze 10 elementów oraz wskaźnik na tą tablicę
+   1. wyświetl kolejno elementy tablicy przy pomocy wskaźnika
+   1. zmień dwa wybrane przez siebie elementy tablicy przy pomocy wskaźnika i operacji na nim
+
 
 ***
 [Poprzednia część]() | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Następna część](https://github.com/CyberMALab/Comming-Soon.git)
